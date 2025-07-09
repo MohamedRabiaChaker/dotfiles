@@ -26,10 +26,11 @@ require("lazy").setup({
 	require("plugins.lsp"),
 	require("plugins.autocompletion"),
 	require("plugins.autoformatting"),
-	require("plugins.gitsigns"),
+	require("plugins.git"),
 	require("plugins.alpha"),
 	require("plugins.indentblankline"),
 	require("plugins.nvterm"),
 	require("plugins.copilot"),
 	require("plugins.debugger"),
+	require("plugins.venv"),
 })
