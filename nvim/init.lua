@@ -31,4 +31,5 @@ require("lazy").setup({
 	require("plugins.indentblankline"),
 	require("plugins.nvterm"),
 	require("plugins.copilot"),
+	require("plugins.debugger"),
 })
