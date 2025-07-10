@@ -1,0 +1,72 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "243cd26144b0a7b48a8ba774fb99c163aa1e9d88b716aa267fd05cb27426a271",
+    "telemetry.devDeviceId": "b64288ae-6f7e-4eb0-a27e-8161b2fa751a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/skrzydelka/Documents/chaker-website"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1745437244661"
+            }
+        ]
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/skrzydelka/Documents/chaker-website": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1745437244661": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/skrzydelka/Documents/chaker-website",
+            "backupPath": "/home/skrzydelka/.config/Code/Backups/b22c12d4cecddfb10487e2cf0f53cfb2",
+            "uiState": {
+                "mode": 1,
+                "x": 12,
+                "y": 12,
+                "width": 1896,
+                "height": 1056,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    }
+}

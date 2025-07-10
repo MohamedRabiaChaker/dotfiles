@@ -1,0 +1,12 @@
+2025-04-23 21:35:00.345 [info] Started local extension host with pid 2157.
+2025-04-23 21:35:02.314 [error] Failed: Server returned 503
+    at pGe.K (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:33992)
+    at async pGe.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:28528)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27250)
+    at async pGe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27538)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2514:14491)
+    at async VWs.Pc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:22008)
+    at async VWs.zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:14306)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:12602
+2025-04-23 21:35:02.982 [info] [perf] Render performance baseline is 28ms
+2025-04-23 21:38:05.541 [warning] [backup tracker] suspended, ignoring unregister event file:///home/skrzydelka/Documents/chaker-website/package.json 

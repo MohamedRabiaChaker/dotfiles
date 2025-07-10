@@ -1,0 +1,1 @@
+2025-04-23 21:47:53.278 [error] Failed to set sticky bit on /tmp/skrzydelka-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/skrzydelka-code-zsh'

@@ -1,0 +1,254 @@
+Error: Could not warm up worker. Formatting a file for the first time may take longer than usual.
+Message: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+Stacktrace: Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at Zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:487)
+	at /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:718
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js 
+Error: Cannot find module 'prettier-eslint'
+Require stack:
+- /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1232:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16068)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:22672)
+	at Function.resolve (node:internal/modules/helpers:190:19)
+	at Ve (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:12704)
+	at zt (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:1:13302)
+	at Object.provideDocumentRangeFormattingEdits (/home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0/dist/extension.js:2:694)
+	at Bb.provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:140283)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166088
+	at Wt.s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:160222)
+	at Wt.$provideDocumentRangeFormattingEdits (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:166076)
+	at i4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115936)
+	at i4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115716)
+	at i4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114767)
+	at i4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113910)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112707)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at Ah.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:3917)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+	at Jn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2209)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)

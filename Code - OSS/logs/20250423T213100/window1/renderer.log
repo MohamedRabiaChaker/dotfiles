@@ -1,0 +1,38 @@
+2025-04-23 21:31:01.395 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-23 21:31:01.481 [info] Started local extension host with pid 20049.
+2025-04-23 21:31:01.512 [info] Started initializing default profile extensions in extensions installation folder. file:///home/skrzydelka/.vscode-oss/extensions
+2025-04-23 21:31:01.665 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/skrzydelka/.vscode-oss/extensions
+2025-04-23 21:31:04.564 [info] [perf] Render performance baseline is 19ms
+2025-04-23 21:31:23.778 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-23 21:31:23.905 [info] Started local extension host with pid 20264.
+2025-04-23 21:31:26.528 [info] [perf] Render performance baseline is 21ms
+2025-04-23 21:31:30.218 [error] Failed: Server returned 503
+    at pGe.K (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:33992)
+    at async pGe.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:28528)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27250)
+    at async pGe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27538)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2514:14491)
+    at async VWs.Pc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:22008)
+    at async VWs.zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:14306)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:12602
+2025-04-23 21:31:31.538 [error] Failed: Server returned 503
+    at pGe.K (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:33992)
+    at async pGe.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:28528)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27250)
+    at async pGe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27538)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2514:14491)
+    at async Promise.all (index 0)
+    at async XWs.Pc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:22383)
+    at async XWs.zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:14306)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:12602
+2025-04-23 21:31:32.468 [error] Failed: Server returned 503
+    at pGe.K (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:33992)
+    at async pGe.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:28528)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27250)
+    at async pGe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1838:27538)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2514:14491)
+    at async Promise.all (index 0)
+    at async XWs.Pc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:22383)
+    at async XWs.zc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:14306)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2306:12602
+2025-04-23 21:31:38.429 [warning] [backup tracker] suspended, ignoring unregister event file:///home/skrzydelka/Documents/chaker-website/package.json 

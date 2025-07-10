@@ -1,0 +1,4 @@
+
+[Default Applications]
+x-scheme-handler/webcal=vivaldi-snapshot.desktop
+x-scheme-handler/mailto=vivaldi-snapshot.desktop

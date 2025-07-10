@@ -1,0 +1,44 @@
+2025-04-23 21:40:45.781 [info] Extension host with pid 9184 started
+2025-04-23 21:40:45.885 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-23 21:40:45.972 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-23 21:40:45.981 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-23 21:40:46.033 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-23 21:40:46.135 [info] Eager extensions activated
+2025-04-23 21:40:46.174 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:40:46.177 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:40:47.528 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-23 21:41:16.463 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:17.583 [error] Error: ENOENT: no such file or directory, open '/home/skrzydelka/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-23 21:41:38.089 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:50.087 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-23 21:41:50.102 [error] Error: ENOENT: no such file or directory, open '/home/skrzydelka/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-23 21:41:50.102 [info] Extension host with pid 9184 exiting with code 0
+2025-04-23 21:41:51.209 [info] Extension host with pid 9607 started
+2025-04-23 21:41:51.209 [info] Skipping acquiring lock for /home/skrzydelka/.config/Code/User/workspaceStorage/cb39eb82f47c25ff4c6de8622030f525.
+2025-04-23 21:41:51.235 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-23 21:41:51.304 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-23 21:41:51.307 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-04-23 21:41:51.410 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-23 21:41:51.454 [info] Eager extensions activated
+2025-04-23 21:41:51.460 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:51.462 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:51.483 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:51.869 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 21:41:53.003 [error] Error: ENOENT: no such file or directory, open '/home/skrzydelka/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-04-23 21:41:53.225 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-23 21:41:53.365 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-23 21:41:56.474 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-23 21:41:56.486 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-04-23 21:41:56.503 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-04-23 21:45:00.538 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2025-04-23 21:58:18.463 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-04-23 22:00:10.474 [warning] TextEditor is closed/disposed
+2025-04-23 22:00:10.474 [warning] TextEditor is closed/disposed
+2025-04-23 22:11:21.885 [warning] TextEditor is closed/disposed
+2025-04-23 22:11:21.885 [warning] TextEditor is closed/disposed
+2025-04-23 22:12:01.680 [warning] TextEditor is closed/disposed
+2025-04-23 22:12:01.680 [warning] TextEditor is closed/disposed
+2025-04-23 22:18:57.511 [info] ExtensionService#_doActivateExtension rvest.vs-code-prettier-eslint, startup: false, activationEvent: 'onLanguage:html'
+2025-04-23 22:19:24.192 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 22:39:04.018 [warning] TextEditor is closed/disposed
+2025-04-23 22:39:04.018 [warning] TextEditor is closed/disposed

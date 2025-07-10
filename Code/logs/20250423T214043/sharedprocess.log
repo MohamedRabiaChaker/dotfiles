@@ -1,0 +1,30 @@
+2025-04-23 21:41:14.259 [info] Getting Manifest... vscodevim.vim
+2025-04-23 21:41:14.417 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json","path":"/home/skrzydelka/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-04-23 21:41:16.277 [info] Extension signature verification result for vscodevim.vim: Success. Internal Code: 0. Executed: true. Duration: 1339ms.
+2025-04-23 21:41:16.335 [info] Extracted extension to file:///home/skrzydelka/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2025-04-23 21:41:16.348 [info] Renamed to /home/skrzydelka/.vscode/extensions/vscodevim.vim-1.29.0
+2025-04-23 21:41:16.359 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json
+2025-04-23 21:41:21.307 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2025-04-23 21:41:21.396 [info] Installing extension: ms-vscode.vscode-typescript-next {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json","path":"/home/skrzydelka/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-04-23 21:41:23.092 [info] Extension signature verification result for ms-vscode.vscode-typescript-next: Success. Internal Code: 0. Executed: true. Duration: 968ms.
+2025-04-23 21:41:23.316 [info] Extracted extension to file:///home/skrzydelka/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250330: ms-vscode.vscode-typescript-next
+2025-04-23 21:41:23.357 [info] Renamed to /home/skrzydelka/.vscode/extensions/ms-vscode.vscode-typescript-next-5.9.20250330
+2025-04-23 21:41:23.371 [info] Extension installed successfully: ms-vscode.vscode-typescript-next vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json
+2025-04-23 21:41:36.046 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2025-04-23 21:41:36.124 [info] Installing extension: dsznajder.es7-react-js-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json","path":"/home/skrzydelka/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-04-23 21:41:37.797 [info] Extension signature verification result for dsznajder.es7-react-js-snippets: Success. Internal Code: 0. Executed: true. Duration: 754ms.
+2025-04-23 21:41:37.962 [info] Extracted extension to file:///home/skrzydelka/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2025-04-23 21:41:37.976 [info] Renamed to /home/skrzydelka/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2025-04-23 21:41:37.987 [info] Extension installed successfully: dsznajder.es7-react-js-snippets vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json
+2025-04-23 22:18:56.175 [info] Getting Manifest... rvest.vs-code-prettier-eslint
+2025-04-23 22:18:56.297 [info] Installing extension: rvest.vs-code-prettier-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json","path":"/home/skrzydelka/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-04-23 22:18:57.394 [info] Extension signature verification result for rvest.vs-code-prettier-eslint: Success. Internal Code: 0. Executed: true. Duration: 467ms.
+2025-04-23 22:18:57.444 [info] Extracted extension to file:///home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0: rvest.vs-code-prettier-eslint
+2025-04-23 22:18:57.455 [info] Renamed to /home/skrzydelka/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0
+2025-04-23 22:18:57.461 [info] Extension installed successfully: rvest.vs-code-prettier-eslint vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json
+2025-04-23 22:19:23.226 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-04-23 22:19:23.322 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json","path":"/home/skrzydelka/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-15T23:18:46.076Z"}}
+2025-04-23 22:19:24.071 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 476ms.
+2025-04-23 22:19:24.080 [info] Extracted extension to file:///home/skrzydelka/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-04-23 22:19:24.089 [info] Renamed to /home/skrzydelka/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-04-23 22:19:24.096 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/skrzydelka/.vscode/extensions/extensions.json

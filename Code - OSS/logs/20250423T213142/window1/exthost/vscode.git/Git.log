@@ -1,0 +1,26 @@
+2025-04-23 21:31:44.142 [info] [main] Log level: Info
+2025-04-23 21:31:44.143 [info] [main] Validating found git in: "git"
+2025-04-23 21:31:44.143 [info] [main] Using git "2.49.0" from "git"
+2025-04-23 21:31:44.143 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-23 21:31:44.143 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-23 21:31:44.143 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2025-04-23 21:31:44.143 [info] [Model][openRepository] Opened repository: /home/skrzydelka/Documents/chaker-website
+2025-04-23 21:31:44.156 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-23 21:31:44.157 [info] > git config --get commit.template [10ms]
+2025-04-23 21:31:44.218 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-23 21:31:44.223 [info] > git rev-parse --show-toplevel [21ms]
+2025-04-23 21:31:44.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-04-23 21:31:44.239 [info] > git status -z -uall [7ms]
+2025-04-23 21:31:44.239 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-04-23 21:31:44.252 [info] > git rev-parse --show-toplevel [25ms]
+2025-04-23 21:31:44.252 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-23 21:31:44.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-04-23 21:31:44.266 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-04-23 21:31:44.266 [warning] [Git][config] git config failed: Failed to execute git
+2025-04-23 21:31:44.271 [info] > git config --get commit.template [13ms]
+2025-04-23 21:31:44.273 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-04-23 21:31:44.274 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-23 21:31:44.280 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-04-23 21:31:44.288 [info] > git status -z -uall [5ms]
+2025-04-23 21:31:44.289 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-04-23 21:31:44.686 [info] > git check-ignore -v -z --stdin [1ms]

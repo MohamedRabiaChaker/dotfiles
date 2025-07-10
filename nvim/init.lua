@@ -30,7 +30,6 @@ require("lazy").setup({
 	require("plugins.alpha"),
 	require("plugins.indentblankline"),
 	require("plugins.nvterm"),
-	require("plugins.copilot"),
 	require("plugins.debugger"),
 	require("plugins.venv"),
 })

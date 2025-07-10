@@ -1,0 +1,18 @@
+2025-04-23 21:40:44.888 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:40:44.902 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:40:44.903 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:40:45.078 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-23 21:40:45.175 [info] Started local extension host with pid 9184.
+2025-04-23 21:40:45.212 [info] Started initializing default profile extensions in extensions installation folder. file:///home/skrzydelka/.vscode/extensions
+2025-04-23 21:40:45.342 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/skrzydelka/.vscode/extensions
+2025-04-23 21:40:45.619 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-23 21:40:48.293 [info] [perf] Render performance baseline is 26ms
+2025-04-23 21:41:17.585 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-23 21:41:50.400 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:41:50.400 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:41:50.401 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 21:41:50.520 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-23 21:41:50.651 [info] Started local extension host with pid 9607.
+2025-04-23 21:41:51.408 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-23 21:41:53.004 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-23 21:41:53.313 [info] [perf] Render performance baseline is 22ms
